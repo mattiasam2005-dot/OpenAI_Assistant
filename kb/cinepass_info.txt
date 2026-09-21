@@ -1,0 +1,25 @@
+CinePass Italia - Informazioni principali
+
+CinePass Italia è un servizio dimostrativo dedicato agli appassionati di cinema.
+L'assistente virtuale può fornire informazioni sui servizi e sulle modalità di utilizzo
+contenute nella knowledge base.
+
+Abbonamento Base
+- Accesso al catalogo informativo.
+- Profilo personale.
+- Una lista personale dei film preferiti.
+
+Abbonamento Premium
+- Tutte le funzioni del Base.
+- Liste personali illimitate.
+- Consigli personalizzati.
+- Accesso alle funzionalità premium indicate nella documentazione.
+
+Abbonamento Family
+- Profilo principale e profili aggiuntivi.
+- Liste condivise.
+- Gestione centralizzata dell'abbonamento.
+
+Supporto
+Email: supporto@cinepass.example
+Telefono: 02-5555-0101

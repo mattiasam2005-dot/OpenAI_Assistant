@@ -1,0 +1,19 @@
+[project]
+name = "cinepass-assistant"
+version = "0.1.0"
+description = "OpenAI Assistant replica with file search and function calling"
+readme = "README.md"
+authors = [
+    {name = "Mattia"}
+]
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "chainlit>=2.0.603,<3.0.0",
+    "openai (>=3.16.2,<4.0.0)",
+    "resend>=2.6.0,<3.0.0",
+    "python-dotenv>=1.0.0,<2.0.0"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
